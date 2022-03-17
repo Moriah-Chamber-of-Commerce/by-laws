@@ -1,5 +1,7 @@
 | [Home](https://moriahchamber.com) | [About The Chamber](https://moriahchamber.com/about.html) | [Join The Chamber](https://moriahchamber.com/join.html) | [Board Of Directors](https://moriahchamber.com/board.html) |
 
+<br />
+
 ## ARTICLE I: NAME and ORGANIZATION
 Section 1: Name This organization is formed under the laws of the State of New York and Internal Revenue Code Sec. 501(c)(6), and shall be known as the Moriah Chamber of Commerce, also referred to as the "Chamber". The Chamber shall observe all local, state and federal laws, and IRS regulations that apply to organizations so formed.
 
