@@ -1,4 +1,4 @@
-| [Home](https://moriahchamber.com) | [About The Chamber](https://moriahchamber.com/about.html) | [Join The Chamber](https://moriahchamber.com/join.html) | [Board Of Directors](https://moriahchamber.com/board.html) |
+| [Home](https://moriahchamber.com) | [About The Chamber](https://moriahchamber.com/about.html) | [Join The Chamber](https://moriahchamber.com/join.html) | [Contact Us](https://moriahchamber.com/contact.html) |
 
 <br />
 
